@@ -5,4 +5,4 @@ A. ODP.Net connected mode
 
 B.ODP.Net Disconnected mode
 
-C.Using crystal reports to create reports with
+C. Using crystal reports to create reports 
